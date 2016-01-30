@@ -1,7 +1,7 @@
 Your best friend Shelly Marshe is creating a new website for the sale of awesome Lorde Posters. Unfortunately, Shelly does not have any experience creating great forms to help users process their transactions. That's where you come in! Help Shelly put together working forms to send the proper data to her API.
 
 
-Use the following stories to help guide you in creating the forms. Remember to clearly identify inputs and properly group them. You should have at least 2 separate forms.
+Use the following stories to help guide you in creating the forms. Remember to clearly identify inputs and properly group them.
 
 
 
